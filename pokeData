@@ -145,7 +145,7 @@
     },
     {
         "name": "Charmeleon",
-        "image": "https://i.postimg.cc/C5LC9JFg/OIP-NGt-Bw3smkbcl-B-yrzz0ym-QHa-Jv-w-130-h-180-c-7-r-0-o-5-dpr-1-5-pid-1.jpg",
+        "image": "https://i.postimg.cc/d1zLGB3K/image.png",
         "type": "Fire",
         "Abilities": "Blaze,\nSolar power",
         "HP": "58",
@@ -383,6 +383,66 @@
         "BaseLevel": 20
     },
     {
+        "name": "Paras",
+        "image": "https://i.postimg.cc/qvTpV7z0/image.png"
+    },
+    {
+        "name": "Gloom",
+        "image": "https://i.postimg.cc/dVwcNSxV/image.png"
+    },
+    {
+        "name": "Parasect",
+        "image": "https://i.postimg.cc/vmTjpRLb/image.png"
+    },
+    {
+        "name": "Venonat",
+        "image": "https://i.postimg.cc/rpDnf1Mp/image.png"
+    },
+    {
+        "name": "Venomoth",
+        "image": "https://i.postimg.cc/g2nHpG5S/image.png"
+    },
+    {
+        "name": "Meowth",
+        "image": "https://i.postimg.cc/HWzw7J1v/image.png"
+    },
+    {
+        "name": "Persian",
+        "image": "https://i.postimg.cc/SR1Y1Myy/image.png"
+    },
+    {
+        "name": "Psyduck",
+        "image": "https://i.postimg.cc/vH14HDYV/image.png"
+    },
+    {
+        "name": "Golduck",
+        "image": "https://i.postimg.cc/PJ0r8zX8/image.png"
+    },
+    {
+        "name": "Mankey",
+        "image": "https://i.postimg.cc/jjvxhrqT/image.png"
+    },
+    {
+        "name": "Primeape",
+        "image": "https://i.postimg.cc/W49D1Zk0/image.png"
+    },
+    {
+        "name": "Growlithe",
+        "image": "https://i.postimg.cc/DfGztHBr/image.png"
+    },
+    {
+        "name": "Poliwag",
+        "image": "https://i.postimg.cc/66fk2h3s/image.png"
+    },
+    {
+        "name": "Poliwrath",
+        "image": "https://i.postimg.cc/ZqzHx17w/image.png"
+    },
+    {
+        "name": "Kadabra",
+        "image": "https://i.postimg.cc/sfHJNBHQ/image.png"
+    },
+    {
         "name": "Ivysaur",
         "image": "https://i.postimg.cc/wjLpjnjZ/ivysaur.png",
         "type": "Grass,\nPoison",
@@ -486,7 +546,7 @@
     },
     {
         "name": "Pidgey",
-        "image": "https://i.postimg.cc/Bvk8TnQx/OIP-Dn9i56-O4p0y-JZx-Jyx-S-xdg-Ha-IE-w-202-h-220-c-7-r-0-o-5-dpr-1-5-pid-1.jpg",
+        "image": "https://i.postimg.cc/76X2777H/image.png",
         "type": "Normal,\nFlying",
         "Abilities": "Keen eye,\nTangled feet,\nBig pecks",
         "HP": "40",
@@ -520,7 +580,7 @@
     },
     {
         "name": "Pidgeotto",
-        "image": "https://i.postimg.cc/cJ4jRd54/OIP-5-RWVVKa-NJw-Ze-Gf3zw-ENXzw-Ha-HV-w-180-h-180-c-7-r-0-o-5-dpr-1-5-pid-1.jpg",
+        "image": "https://i.postimg.cc/V6Tz3kP9/image.png",
         "type": "Normal,\nFlying",
         "Abilities": "Keen eye,\nTangled feet,\nBig pecks",
         "HP": "63",
@@ -640,7 +700,7 @@
     },
     {
         "name": "Sandslash",
-        "image": "https://i.postimg.cc/x16Vq9vY/OIP.jpg",
+        "image": "https://i.postimg.cc/0yfMhDWp/image.png ",
         "type": "Ground",
         "Abilities": "Sand Veil,\nSand Rush",
         "HP": "75",
