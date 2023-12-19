@@ -332,6 +332,23 @@
         "BaseLevel": ""
     },
     {
+        "name": "Vileplume",
+        "image": "https://i.postimg.cc/Ss5zH8JL/image.png",
+        "type": "grass,\npoison",
+        "Abilities": "",
+        "HP": "75",
+        "Att": "80",
+        "Def": "85",
+        "Attack speed": "110",
+        "Defence speed": "90",
+        "Speed": "50",
+        "PokeballCatchRate": "",
+        "GreatballCatchRate": "",
+        "UltraballCatchRate": "",
+        "SpawnRate": "",
+        "BaseLevel": ""
+    },
+    {
         "name": "Machop",
         "image": "https://i.postimg.cc/VLM02xZ5/image.png",
         "type": "fighting",
@@ -405,23 +422,6 @@
         "Def": 45,
         "Attack speed": 135,
         "Defence speed": 95,
-        "PokeballCatchRate": "",
-        "GreatballCatchRate": "",
-        "UltraballCatchRate": "",
-        "SpawnRate": "",
-        "BaseLevel": ""
-    },
-    {
-        "name": "Vileplume",
-        "image": "https://i.postimg.cc/Ss5zH8JL/image.png",
-        "type": "grass,\npoison",
-        "Abilities": "",
-        "HP": "75",
-        "Att": "80",
-        "Def": "85",
-        "Attack speed": "110",
-        "Defence speed": "90",
-        "Speed": "50",
         "PokeballCatchRate": "",
         "GreatballCatchRate": "",
         "UltraballCatchRate": "",
@@ -505,6 +505,98 @@
     {
         "name": "Persian",
         "image": "https://i.postimg.cc/SR1Y1Myy/image.png"
+    },
+    {
+        "name": "Weepinbell",
+        "image": "https://i.postimg.cc/NFvGLvrP/image.png"
+    },
+    {
+        "name": "Victreebel",
+        "image": "https://i.postimg.cc/6QCmtstQ/image.png"
+    },
+    {
+        "name": "Tentacool",
+        "image": "https://i.postimg.cc/HxV3nfC5/image.png"
+    },
+    {
+        "name": "Tentacruel",
+        "image": "https://i.postimg.cc/fLtjDmxf/image.png"
+    },
+    {
+        "name": "Geodude",
+        "image": "https://i.postimg.cc/yxhR8PWc/image.png"
+    },
+    {
+        "name": "Graveler",
+        "image": "https://i.postimg.cc/x8QkhzgC/image.png"
+    },
+    {
+        "name": "Golem",
+        "image": "https://i.postimg.cc/9fVQWhZ8/image.png"
+    },
+    {
+        "name": "Ponyta",
+        "image": "https://i.postimg.cc/Y2J4JTnV/image.png"
+    },
+    {
+        "name": "Rapidash",
+        "image": "https://i.postimg.cc/pLVP7ZH4/image.png"
+    },
+    {
+        "name": "Slowpoke",
+        "image": "https://i.postimg.cc/Qdvn580m/image.png"
+    },
+    {
+        "name": "Slowbro",
+        "image": "https://i.postimg.cc/PqrzPBky/image.png"
+    },
+    {
+        "name": "Magnemite",
+        "image": "https://i.postimg.cc/xdhJn7jc/image.png"
+    },
+    {
+        "name": "Doduo",
+        "image": "https://i.postimg.cc/NM8gSPKh/image.png"
+    },
+    {
+        "name": "Farfetch'd",
+        "image": "https://i.postimg.cc/sx0bNp4d/image.png"
+    },
+    {
+        "name": "Dodrio",
+        "image": "https://i.postimg.cc/FKRW2f1h/image.png"
+    },
+    {
+        "name": "Seel",
+        "image": "https://i.postimg.cc/RZfVwFvV/image.png"
+    },
+    {
+        "name": "Dewgong",
+        "image": "https://i.postimg.cc/mDdbT1yV/image.png"
+    },
+    {
+        "name": "Grimer",
+        "image": "https://i.postimg.cc/4ykTfvh6/image.png"
+    },
+    {
+        "name": "Muk",
+        "image": "https://i.postimg.cc/htyWzRdP/image.png"
+    },
+    {
+        "name": "Shellder",
+        "image": "https://i.postimg.cc/DwzRKpMV/image.png"
+    },
+    {
+        "name": "Cloyster",
+        "image": "https://i.postimg.cc/1zkdwm5P/image.png"
+    },
+    {
+        "name": "Gastly",
+        "image": "https://i.postimg.cc/NMRzx35X/image.png"
+    },
+    {
+        "name": "Haunter",
+        "image": "https://i.postimg.cc/3Jtb9CJt/image.png"
     },
     {
         "name": "Dugtrio",
